@@ -1,0 +1,15 @@
+# vscode
+.vscode/
+
+# binaries / tests
+*.py[co]
+__pycache__/
+*/__pycache__/
+
+# Distribution / packaging
+build/
+dist/
+*.egg
+*.eggs
+*.egg-info/
+MANIFEST
